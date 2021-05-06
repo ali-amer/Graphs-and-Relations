@@ -1,0 +1,4 @@
+C:\Users\Ali Hassan\source\repos\DiscreteProject\Debug\DiscreteProject.exe
+C:\Users\Ali Hassan\source\repos\DiscreteProject\Debug\DiscreteProject.pdb
+C:\Users\ATOnline\source\repos\DiscreteProject\Debug\DiscreteProject.exe
+C:\Users\ATOnline\source\repos\DiscreteProject\Debug\DiscreteProject.pdb

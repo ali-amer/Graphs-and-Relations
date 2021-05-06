@@ -1,0 +1,10 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Source.obj : warning LNK4006: "int V" (?V@@3HA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "int i" (?i@@3HA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "int j" (?j@@3HA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "int infinity" (?infinity@@3HA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "__int64 (* f)[10]" (?f@@3PAY09_JA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "__int64 C" (?C@@3_JA) already defined in GRAPHS.obj; second definition ignored
+Source.obj : warning LNK4006: "class std::basic_ifstream<char,struct std::char_traits<char> > read" (?read@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in GRAPHS.obj; second definition ignored
+C:\Users\ATOnline\source\repos\DiscreteProject\Debug\DiscreteProject.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  DiscreteProject.vcxproj -> C:\Users\ATOnline\source\repos\DiscreteProject\Debug\DiscreteProject.exe
